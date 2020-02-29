@@ -1,0 +1,6 @@
+framework module Pods_TakePicture_TakePictureUITests {
+  umbrella header "Pods-TakePicture-TakePictureUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
